@@ -5,7 +5,4 @@ Kill List
 * Unformatted code
 * Repeated code blocks
 * Bad variable names
-* Something
-* Something two
-* Something three
 * Introduction
