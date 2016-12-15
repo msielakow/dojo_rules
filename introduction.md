@@ -6,3 +6,4 @@ Introducing
 *Ruby
 *JS
 *CSS
+*JavaScript
